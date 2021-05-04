@@ -6,9 +6,7 @@
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1269px) {	  
-        #brand{
-        display: none;
-    }
+
 .header-right-link {
     margin-left: 10px;
 } 
